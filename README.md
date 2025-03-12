@@ -49,8 +49,6 @@ pip install easyocr pdf2image pillow
 ## **Contributing**
 Pull requests are welcome! If you’d like to contribute, please fork the repository and submit a PR.
 
-## **License**
-This project is licensed under the **MIT License**.
 
 ---
 🚀 **Let’s connect!** If you find this project useful, feel free to star ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/tobiloba-oluwadamilare-a850b0223/).
